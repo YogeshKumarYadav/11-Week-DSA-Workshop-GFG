@@ -1,3 +1,3 @@
 # 11-Week-DSA-Workshop-GFG
-Complete track of 11 weak DSA workshop by GeeksForGeeks
+Complete track of 11 weak DSA workshop by GeeksForGeeks.
 Language used C++
